@@ -3,3 +3,18 @@
 ################################################################################
 
 /.vs/Voucher/config
+/.vs/Voucher/DesignTimeBuild
+/.vs/Voucher/v17
+/.vs
+/Domain/bin/Debug/net6.0
+/Domain/obj
+/IntegrationTests/bin
+/IntegrationTests/obj
+/Model/obj
+/Persistence/bin/Debug/net6.0
+/Persistence/obj/Debug/net6.0
+/Persistence/obj
+/UnitTests/bin
+/UnitTests/obj
+/Voucher/bin/Debug/net6.0
+/Voucher/obj

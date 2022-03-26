@@ -9,3 +9,4 @@ What is missing:
 - Authentication / authorization
 - Exception handling strategy
 - CI/CD preparation
+- End to end testing (Postman)
